@@ -8,8 +8,4 @@ twotwotwo
 88888888
 999999
 1001010101100
-<<<<<<< Updated upstream
-22222222
-=======
-11 1  1 1  1
->>>>>>> Stashed changes
+aaa
